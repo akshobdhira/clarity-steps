@@ -31,7 +31,7 @@ def create_pdf(profiler_out, plan_out):
     
     return pdf.output(dest='S').encode('latin-1')
 
-st.title("AI Career Companion for Parents")
+st.title("Clarity Steps - Turn parental concern into clear weekly action")
 
 grade = st.selectbox("Child Grade", ["8", "9", "10", "11", "12"])
 board = st.selectbox("Board", ["CBSE", "ICSE", "IGCSE", "IB"])
