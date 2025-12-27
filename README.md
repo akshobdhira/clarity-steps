@@ -3,6 +3,8 @@
 > Turning parental confusion into clear, week-by-week career support actions.
 
 ---
+🔗 **Try the live app here ->** [Clarity-steps](https://clarity-steps.streamlit.app/)
+---
 
 ![App Screenshot](./screenshot.png)
 
