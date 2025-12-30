@@ -63,3 +63,11 @@ Instead of one monolithic AI prompt, responsibilities are separated conceptually
 For the MVP, these agents run sequentially to demonstrate the core idea end-to-end.
 
 
+## License
+
+This project is proprietary software.
+
+Unauthorized use, copying, modification, or distribution is strictly prohibited.
+For licensing or commercial access, contact the author.
+
+
